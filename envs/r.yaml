@@ -1,0 +1,9 @@
+channels:
+ - r
+ - conda-forge
+dependencies:
+ - r-base=3.6.1
+ - r-tidyverse
+ - r-kableextra
+ - r-plotly
+ - r-gplots
